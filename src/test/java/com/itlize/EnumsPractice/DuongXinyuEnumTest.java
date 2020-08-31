@@ -1,7 +1,9 @@
-package com.itlize.EnumsPractice;
+package EnumsAssignment.src.test.java.com.itlize.EnumsPractice;
 
 import org.junit.Assert;
 import org.junit.Test;
+
+import EnumsAssignment.src.main.java.com.itlize.EnumsPractice.DuongXinyuEnum;
 
 /**
  * Created by Yang on 02/4/20.
@@ -10,7 +12,7 @@ public class DuongXinyuEnumTest {
     @Test
     public void testDuongName() {
         // Given
-        DuongXinyuEnum duong = DuongXinyuEnum.Duong;
+        DuongXinyuEnum Duong = DuongXinyuEnum.Duong;
         String expected = "Duong";
 
         // When

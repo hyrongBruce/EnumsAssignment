@@ -1,6 +1,9 @@
-package com.itlize.EnumsPractice;
+package EnumsAssignment.src.test.java.com.itlize.EnumsPractice;
 import org.junit.Assert;
 import org.junit.Test;
+
+import EnumsAssignment.src.main.java.com.itlize.EnumsPractice.DuongXinyuEvaluator;
+
 
 /**
  * Created by yang on 02/03/20.
